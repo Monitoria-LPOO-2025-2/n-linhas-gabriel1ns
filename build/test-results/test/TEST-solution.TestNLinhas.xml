@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="solution.TestNLinhas" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-07-07T15:03:01.406Z" hostname="DESKTOP-SOV61AF" time="0.084">
+  <properties/>
+  <testcase name="Para n = 0" classname="solution.TestNLinhas" time="0.054"/>
+  <testcase name="Para n = 1" classname="solution.TestNLinhas" time="0.006"/>
+  <testcase name="Para n = 2" classname="solution.TestNLinhas" time="0.001"/>
+  <testcase name="Para n = 4" classname="solution.TestNLinhas" time="0.003"/>
+  <testcase name="Para n = 5" classname="solution.TestNLinhas" time="0.002"/>
+  <testcase name="Para n = -5" classname="solution.TestNLinhas" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
